@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+div{
+    display: inline-block;
+}
+
+
+.txt{
+    width: 66%;
+    height: 100%;
+    position: absolute;
+    left: 0px;
+    background: #FFFFFF;
+    display: inline-block;
+}
+
+.titulo{
+    margin-top: 71%;
+    margin-left: 25%;
+    width:368px;
+    height: 160px;
+    font-size: 70px;
+    font-weight: 400;
+    color: #5D5D7D;
+}
+
+p{
+    width: 540px;
+    height: 144px;
+    font-size: 28px;
+    font-weight: 400;
+    color: rgba(93, 93, 125, 0.6);
+    margin-top: 10%;
+    margin-left: 25%;
+}
+
+.btn{
+    margin-left: 25%;
+    margin-top: 4%;
+    width: 269px;
+    height: 62px;
+    background: #9499ea;
+    font-size: 24px;
+    font-weight: 400;
+    border: none;
+    border-radius: 35px;
+    color: #FFFFFF;
+}
+
+.btn:hover{
+    background: #5D5D7D;
+    cursor: pointer;
+    transition: 0.5s;
+    scale: 1.1;
+    border: none;
+}
+
+.btn:active{
+    background: #5D5D7D;
+    transition: 0.5s;
+    scale: 0.9;
+}
+
+/*-----------------------------------------------------------*/
+
+.img{
+    width: 34%;
+    height: 100%;
+    position: absolute;
+    right: 0px;
+    background: rgba(93, 93, 125, 0.16);
+    display: inline-block;
+}
+
+header{
+    margin-left: 15%;
+    width: 94%;
+    margin-top: 6%;
+}
+
+.work{
+    opacity: 0.4;
+}
+
+.home, .about, .work, .contato{
+   text-decoration: none;
+   border: none;
+   background: none;
+   color: #5D5D7D;
+   font-weight: 400;
+   font-size: 28px;
+
+}
+
+.about, .work, .contato{
+    margin-left: 11%;
+}
+
+img{
+    margin-top: 10%;
+    position: fixed;
+    right: 17%;
+    display: inline-block;
+}
