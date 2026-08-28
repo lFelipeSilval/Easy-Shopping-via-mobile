@@ -8,5 +8,5 @@
         <li>HTML</li>
         <li>CSS</li>
 
-    <img src="./img/{A52C08D9-921A-42A8-9063-401C78DDB471}.png / width="200" height="100">
-    <img src="./img/{E79847A6-FF2F-40AC-9C19-CC856C2540B0}.png / width="200" height="100">
+    <img src="./img/{A52C08D9-921A-42A8-9063-401C78DDB471}.png" width="200" height="100">
+    <img src="./img/{E79847A6-FF2F-40AC-9C19-CC856C2540B0}.png" width="200" height="100">
